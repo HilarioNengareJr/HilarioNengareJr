@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @HilarioNengareJr.
-- 🌱 Currently studying Software Engineering BSc.
-- 📫 Reach me at hilscyberinc@gmail.com or hnengare@yahoo.com or hnengare@gmail.com or hilarionengare6@gmail.com.
