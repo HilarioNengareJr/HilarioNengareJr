@@ -13,8 +13,6 @@ Sup there, My name is Hilario and I am a Software Engineer with a knack for intu
 
 #Extras
 ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/4778df3a-a9c0-4c60-ac90-3eafa2bfac5f)
-![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/a1f1c627-ddc6-4426-986e-a428f57dcbf6)
-
 
 #TILL WE MEET AGAIN YALL...
 
