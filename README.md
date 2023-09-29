@@ -1,7 +1,26 @@
-I am a Software Engineer with a knack for intuitive, interactive and interesting user interfaces. I bring optimised, simplified and yet powerful server-side code to the table. Been working with Python since AI was just an idea. 
+![229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/c7d12b02-928e-4d4f-bf8f-cf4280349b43)
 
-I'm proficient in Python, C++, JavaScript for the web and every other language I can easily pick up on it. I identify as SQL and NoSQL guy.
+Sup there, My name is Hilario and I am a Software Engineer with a knack for intuitive, interactive and interesting user interfaces. I bring optimised, simplified and yet powerful server-side code to the table. Been working with Python since AI was just an idea. 
 
+#Languages
 ![python](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/6b66557c-c21c-4bc1-8709-170ff1a915f9)
 ![212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/4df48936-9745-4032-9e7f-aff2578dea6a)
 ![javascript](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/e46bc34e-0ccb-4612-a698-f1d44846c911)
+
+#Environments
+![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/75d4983b-aa20-41a3-9fb9-43caa0427e3c)
+![238200437-de038172-e903-4951-926c-755878deb0b4](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/c331d03b-a446-446a-8b86-6fbb4ce3e5dc)
+
+#Extras
+![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/4778df3a-a9c0-4c60-ac90-3eafa2bfac5f)
+![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/a1f1c627-ddc6-4426-986e-a428f57dcbf6)
+
+
+#TILL WE MEET AGAIN YALL...
+
+Happy Coding!
+
+
+
+
+
