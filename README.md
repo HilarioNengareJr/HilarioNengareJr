@@ -1,11 +1,11 @@
 ![229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/c7d12b02-928e-4d4f-bf8f-cf4280349b43)
 
-Sup there, My name is Hilario and I am a Software Engineer with a knack for intuitive, interactive and interesting user interfaces. 
+Sup there, My name is Hilario and I am a Software Engineer with a knack for developing intuitive, interactive and interesting user interfaces 
 
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/ecca96dd-e6be-4972-a9b5-55a6f6e4bfe1)
 
 
-Adding on to the aesthetic UI I integrate optimised, simplified and yet powerful server-side code...Below are some of the tools I use 
+And integrating well, engineered, optimised, simple and yet powerful server-side code...Below are some of the tools I use and many others not mentioned
 
 
 ![python](https://github.com/HilarioNengareJr/HilarioNengareJr/assets/38634516/6b66557c-c21c-4bc1-8709-170ff1a915f9)
