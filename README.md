@@ -1,9 +1,11 @@
 # Hi, My name is Hilario but you can call me Hils!
 
-● Pronouns: him/her I'm based in Cyprus🇹🇷
-● Drinks: ☕ coffee and 🍵 tea
-● Coding Environment: dark mode 🕶
-● Languages: Shona, English, Turkçe!
+<ul>
+ <li>● Pronouns: him/her I'm based in Cyprus🇹🇷</li> 
+<li>● Drinks: ☕ coffee and 🍵 tea</li>
+<li>● Coding Environment: dark mode 🕶</li>
+<li>● Languages: Shona, English, Turkçe!</li>
+</ul>
 
 # Tech Stack
 
