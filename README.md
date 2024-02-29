@@ -1,4 +1,4 @@
-# Hi, My name is Hilario but you can call me Hils!
+# Hi, My name is Hils
 
 <ul>
  <li> Pronouns: him/her I'm based in Cyprus🇹🇷</li> 
