@@ -1,7 +1,7 @@
 # Hi👋, My name is Hils
 
 <ul>
- <li> Pronouns: him/her I'm based in Cyprus🇹🇷</li> 
+ <li> Pronouns: him/her</li> 
 <li> Drinks: ☕ coffee and 🍵 tea</li>
 <li> Coding Environment: dark mode 🕶</li>
 <li> Languages: Shona, English, Turkçe!</li>
