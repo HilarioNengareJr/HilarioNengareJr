@@ -2,7 +2,7 @@
 
 <ul>
  <li> Pronouns: he/him</li> 
- <li> I am based in Nicosia, CY</li> 
+ <li> I am based in South Africa, Johannesburg</li> 
 <li> Drinks: ☕ coffee and 🍵 tea</li>
 <li> Coding Environment: dark mode 🕶</li>
 <li> Languages: Shona, English, Turkçe!</li>
