@@ -1,4 +1,4 @@
-# Hi🥃, My name is Hilario
+# Hi, My name is Hilario
 
 <ul>
  <li> Pronouns: he/him</li> 
