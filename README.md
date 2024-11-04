@@ -30,11 +30,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-29B6F6.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Relume](https://img.shields.io/badge/Relume-800080?style=for-the-badge&logo=relume&logoColor=white)
 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
