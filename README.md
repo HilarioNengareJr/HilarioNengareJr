@@ -1,7 +1,7 @@
 # Hi, My name is Hilario
 
 <ul>
- <li> Pronouns: he/him</li> 
+ <li> Pronouns: he/him👨🏾</li> 
  <li> I am based in South Africa, Cape Town🇿🇦</li> 
  <li> Drinks: ☕ coffee and 🍵 tea</li>
  <li> Coding Environment: dark mode🕶</li>
