@@ -8,6 +8,7 @@
  <li> Languages: Shona, English, Turkçe!</li>
  <li> Tertiary: BSc. in Software Engineering🎓</li> 
  <li> European University of Lefke in Cyprus🇨🇾</li>
+  <li>Favorite movies: Harry Potter Series, John Wick Chapters</li>
 </ul>
 
 # 💼 Tech Stack
