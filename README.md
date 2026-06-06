@@ -5,7 +5,7 @@
  <li> I am based in South Africa, Cape Town🇿🇦</li> 
  <li> Drinks: ☕ coffee and 🍵 tea</li>
  <li> Coding Environment: dark mode🕶</li>
- <li> Languages: Shona, English, Turkçe!</li>
+ <li> Languages: English, Turkçe!</li>
  <li> Tertiary: BSc. in Software Engineering🎓</li> 
  <li> European University of Lefke in Cyprus🇨🇾</li>
   <li>Favorite movies: Harry Potter Series, John Wick Chapters</li>
