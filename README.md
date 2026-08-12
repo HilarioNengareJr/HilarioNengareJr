@@ -18,14 +18,6 @@ that makes AI agents genuinely useful in that work.
   decision support, session memory, and a reusable context template. Tokenized,
   MIT, bring your own values.
 
-## ⚙️ How I work
-
-Most of my day runs through an agentic delivery loop: every feature goes from a
-rough ask to a confirmed brief, a confirmed plan, a grounded build, a static
-review, an adversarial stress-test, and a watched pipeline — with a human gate
-at every decision that matters. The two repos above are that practice, made
-public.
-
 ## 🧰 Stack
 
 `Go` · `TypeScript` · `React / Next.js` · `PostgreSQL` · `Python` · `Docker` · `Kubernetes` · `GitLab CI` · `Claude Code`
