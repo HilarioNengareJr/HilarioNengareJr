@@ -1,42 +1,35 @@
-# Hi, My name is Hilario
+# Hi, I'm Hilario 👋
 
-<ul>
- <li> Pronouns: he/him👨🏾</li> 
- <li> I am based in South Africa, Cape Town🇿🇦</li> 
- <li> Drinks: ☕ coffee and 🍵 tea</li>
- <li> Coding Environment: dark mode🕶</li>
- <li> Languages: English, Turkçe!</li>
- <li> Tertiary: BSc. in Software Engineering🎓</li> 
- <li> European University of Lefke in Cyprus🇨🇾</li>
-  <li>Favorite movies: Harry Potter Series, John Wick Chapters</li>
-</ul>
+Software engineer in Cape Town, South Africa 🇿🇦 (he/him). I build production
+e-commerce and platform systems — Go APIs on Postgres, React/Next.js storefronts
+and admin consoles, shipped through CI onto Kubernetes — and I build the tooling
+that makes AI agents genuinely useful in that work.
 
-# 💼 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🔭 What I'm building
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+- **[atlas](https://github.com/HilarioNengareJr/atlas)** — *Django for prompting.*
+  An opinionated, agent-agnostic workflow framework that makes AI-assisted
+  development compound: a git-versioned Map of project understanding, plans with
+  footprints, edit reconciliation, and hard stops when something protected gets
+  touched. Go, single binary, seven commands.
+- **[claude-workflow](https://github.com/HilarioNengareJr/claude-workflow)** —
+  ~35 Claude Code skills in seven collections: a gated delivery loop
+  (refine → architect → build → review → break → ship → watch → track),
+  decision support, session memory, and a reusable context template. Tokenized,
+  MIT, bring your own values.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## ⚙️ How I work
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)
+Most of my day runs through an agentic delivery loop: every feature goes from a
+rough ask to a confirmed brief, a confirmed plan, a grounded build, a static
+review, an adversarial stress-test, and a watched pipeline — with a human gate
+at every decision that matters. The two repos above are that practice, made
+public.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+## 🧰 Stack
 
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+`Go` · `TypeScript` · `React / Next.js` · `PostgreSQL` · `Python` · `Docker` · `Kubernetes` · `GitLab CI` · `Claude Code`
 
+---
 
-
-
-
-
-
+☕ coffee *and* 🍵 tea · dark mode 🕶 · English & Türkçe · BSc Software Engineering
