@@ -39,4 +39,4 @@ the stranger who finishes your tutorial without help. That's the bar.
 
 ---
 
-☕ coffee *and* 🍵 tea · dark mode 🕶 · English & Türkçe · BSc Software Engineering
+☕ coffee *and* 🍵 tea · dark mode 🕶 · English & Türkçe · BSc Software Engineering · [Stack Overflow](https://stackoverflow.com/users/20430814/hilario-nengare)
