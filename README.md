@@ -15,7 +15,7 @@ squares undercount the mileage.
 My path ran through the European University of Lefke in Cyprus 🇨🇾 — a BSc in
 Software Engineering and enough Türkçe to keep — before landing in Cape Town,
 where I've been building for real users ever since. Learning to code far from
-home taught me the thing I still build by: **technology is ultimately for
+home taught me the thing I still build by: **systems are ultimately for
 people.** A system is only as good as the day it gives someone — the customer
 who checks out without friction, the teammate who inherits code they can read,
 the stranger who finishes your tutorial without help. That's the bar.
